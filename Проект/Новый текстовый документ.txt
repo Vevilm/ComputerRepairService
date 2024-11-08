@@ -1,0 +1,35 @@
+CREATE FUNCTION [dbo].[VERIFY](@password VARCHAR(100), @HASH VARCHAR(MAX))
+returns BIT AS
+BEGIN
+DECLARE @RESULT BIT;
+IF HASHBYTES('SHA2_512', @password) = @HASH
+	SET @RESULT = 1;
+ELSE
+	SET @RESULT = 0;
+RETURN @RESULT
+END
+
+CREATE FUNCTION [dbo].[Sypher](@password VARCHAR(100))
+returns VARCHAR(MAX) AS
+BEGIN
+RETURN (HASHBYTES('SHA2_512', @password))
+END
+
+
+--CREATE VIEW requestsView AS
+--SELECT
+--startDate as [Заявка подана],
+--problemDescription as [Описание],
+--requestStatuses.name as [Статус],
+--completionDate as [Дата завершения ремонта],
+--Concat(masters.surname,' ' ,masters.name,' ' , masters.patronymic) as Техник,
+--Concat(clients.surname,' ' ,clients.name,' ' , clients.patronymic) as Клиент,
+--computerTechModels.name as [Модель устройства]
+--FROM
+--requests
+--INNER JOIN computerTechModels ON requests.model = computerTechModels.modelID
+--INNER JOIN computerTechTypes ON computerTechTypes.techTypeID = computerTechModels.techType
+--INNER JOIN requestStatuses ON requests.requestStatusID = requestStatuses.requestStatusID
+--INNER JOIN users AS clients ON clients.userID = requests.clientID
+--LEFT JOIN users AS masters ON masters.userID = requests.masterID
+--LEFT JOIN partsToRequests ON partsToRequests.requestID = requests.requestID

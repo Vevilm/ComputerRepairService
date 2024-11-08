@@ -1,0 +1,43 @@
+E:\Проект\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.exe.config
+E:\Проект\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.exe
+E:\Проект\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.pdb
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.AssemblyReference.cache
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Properties.Resources.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.GenerateResource.cache
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.CoreCompileInputs.cache
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.exe
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.pdb
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Enter.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.OperatorMainForm.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.SearchRequests.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.AuthResult.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.CreateRequestForm.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.RequestViewForm.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.EditRequestForm.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.AuthAttempts.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Comments.resources
+E:\Проект\ComputersRepairService\ComputersRepairService\bin\Debug\BasicSQLRequests.dll
+E:\Проект\ComputersRepairService\ComputersRepairService\bin\Debug\BasicSQLRequests.pdb
+E:\Проект\ComputersRepairService\ComputersRepairService\obj\Debug\Computer.E2B24FAE.Up2Date
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.exe.config
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.exe
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\ComputersRepairService.pdb
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\Aspose.BarCode.dll
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\Aspose.BarCode.xml
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\bin\Debug\BasicSQLRequests.pdb
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.AssemblyReference.cache
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.AuthAttempts.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Comments.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.CreateRequestForm.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.EditRequestForm.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Enter.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.Properties.Resources.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.OperatorMainForm.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.RequestViewForm.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.SearchRequests.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.AuthResult.resources
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.GenerateResource.cache
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.csproj.CoreCompileInputs.cache
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\Computer.E2B24FAE.Up2Date
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.exe
+E:\Проект — копия\ComputersRepairService\ComputersRepairService\obj\Debug\ComputersRepairService.pdb

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6638457A-6B72-4498-9D13-22B4B5E4D855}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ComputersRepairService</RootNamespace>
+    <AssemblyName>ComputersRepairService</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.BarCode">
+      <HintPath>.\Aspose.BarCode.dll</HintPath>
+    </Reference>
+    <Reference Include="BasicSQLRequests">
+      <HintPath>C:\Users\429191-14\source\repos\BasicSQLRequests\BasicSQLRequests\bin\Debug\net8.0\BasicSQLRequests.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuthAttempts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthAttempts.Designer.cs">
+      <DependentUpon>AuthAttempts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Capcha.cs" />
+    <Compile Include="Comments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comments.Designer.cs">
+      <DependentUpon>Comments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateRequestForm.Designer.cs">
+      <DependentUpon>CreateRequestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRequestForm.Designer.cs">
+      <DependentUpon>EditRequestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enter.Designer.cs">
+      <DependentUpon>Enter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OperatorMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperatorMainForm.Designer.cs">
+      <DependentUpon>OperatorMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RequestViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestViewForm.Designer.cs">
+      <DependentUpon>RequestViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchRequests.Designer.cs">
+      <DependentUpon>SearchRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthResult.Designer.cs">
+      <DependentUpon>AuthResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlConnectionMethods.cs" />
+    <EmbeddedResource Include="AuthAttempts.resx">
+      <DependentUpon>AuthAttempts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comments.resx">
+      <DependentUpon>Comments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateRequestForm.resx">
+      <DependentUpon>CreateRequestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRequestForm.resx">
+      <DependentUpon>EditRequestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enter.resx">
+      <DependentUpon>Enter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="OperatorMainForm.resx">
+      <DependentUpon>OperatorMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestViewForm.resx">
+      <DependentUpon>RequestViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchRequests.resx">
+      <DependentUpon>SearchRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuthResult.resx">
+      <DependentUpon>AuthResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="user.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\requestviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\requestviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\requestviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\requestviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\editrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\editrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\editrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\editrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\sqlconnectionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\sqlconnectionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|e:\\\u043F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\computersrepairservice\\computersrepairservice\\user.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\user.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|e:\\\u043F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\computersrepairservice\\computersrepairservice\\createrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\createrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|e:\\\u043F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\computersrepairservice\\computersrepairservice\\enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\createrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\createrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\authattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\authattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\searchrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\searchrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\operatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\operatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\operatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\operatormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\searchrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\searchrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\enter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\enter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\capcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\capcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\authattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\authattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\editrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\editrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\computersrepairservice\\searchrequests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6638457A-6B72-4498-9D13-22B4B5E4D855}|ComputersRepairService\\ComputersRepairService.csproj|solutionrelative:computersrepairservice\\searchrequests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestViewForm.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\RequestViewForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\RequestViewForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\RequestViewForm.cs*",
+              "RelativeToolTip": "ComputersRepairService\\RequestViewForm.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:33:33.781Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user.png",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\user.png",
+              "RelativeDocumentMoniker": "ComputersRepairService\\user.png",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\user.png",
+              "RelativeToolTip": "ComputersRepairService\\user.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-07T18:40:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Comments.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Comments.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Comments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\Comments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:54:42.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditRequestForm.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\EditRequestForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.cs",
+              "RelativeToolTip": "ComputersRepairService\\EditRequestForm.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAMwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:19:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlConnectionMethods.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SqlConnectionMethods.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\SqlConnectionMethods.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SqlConnectionMethods.cs",
+              "RelativeToolTip": "ComputersRepairService\\SqlConnectionMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateRequestForm.cs [Design]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\CreateRequestForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\CreateRequestForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\CreateRequestForm.cs [Design]",
+              "RelativeToolTip": "ComputersRepairService\\CreateRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:33:35.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRequestForm.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\CreateRequestForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\CreateRequestForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\CreateRequestForm.cs",
+              "RelativeToolTip": "ComputersRepairService\\CreateRequestForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:27:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Program.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Program.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Program.cs",
+              "RelativeToolTip": "ComputersRepairService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:48:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthResult.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\AuthResult.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\AuthResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:37:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthAttempts.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthAttempts.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\AuthAttempts.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthAttempts.cs",
+              "RelativeToolTip": "ComputersRepairService\\AuthAttempts.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:11:37.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Comments.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Comments.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Comments.cs",
+              "RelativeToolTip": "ComputersRepairService\\Comments.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAhwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:54:47.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\EditRequestForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\EditRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:33:53.135Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchRequests.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\SearchRequests.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\SearchRequests.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:26:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OperatorMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\OperatorMainForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\OperatorMainForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\OperatorMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\OperatorMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:44:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthResult.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\AuthResult.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthResult.cs",
+              "RelativeToolTip": "ComputersRepairService\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:47:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchRequests.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\SearchRequests.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.cs",
+              "RelativeToolTip": "ComputersRepairService\\SearchRequests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:19:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\RequestViewForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\RequestViewForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\RequestViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "ComputersRepairService\\RequestViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:56:05.06Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OperatorMainForm.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\OperatorMainForm.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\OperatorMainForm.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\OperatorMainForm.cs",
+              "RelativeToolTip": "ComputersRepairService\\OperatorMainForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:20:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enter.Designer.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.Designer.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Enter.Designer.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.Designer.cs",
+              "RelativeToolTip": "ComputersRepairService\\Enter.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAIAwwH0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:30:36.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Capcha.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Capcha.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Capcha.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Capcha.cs",
+              "RelativeToolTip": "ComputersRepairService\\Capcha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:42:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthAttempts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthAttempts.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\AuthAttempts.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\AuthAttempts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ComputersRepairService\\AuthAttempts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:00:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditRequestForm.Designer.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.Designer.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\EditRequestForm.Designer.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\EditRequestForm.Designer.cs",
+              "RelativeToolTip": "ComputersRepairService\\EditRequestForm.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAEwKoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:41:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SearchRequests.Designer.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.Designer.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\SearchRequests.Designer.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\SearchRequests.Designer.cs",
+              "RelativeToolTip": "ComputersRepairService\\SearchRequests.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAEwIEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:05:46.926Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6746e37e-ef46-43b6-b9a3-633a67dd8fac",
+        "Display": 1,
+        "X": 307,
+        "Y": 266,
+        "Width": 1528,
+        "Height": 792,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enter.cs [Design]",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Enter.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.cs [Design]",
+              "RelativeToolTip": "ComputersRepairService\\Enter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:03:01.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enter.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.cs",
+              "RelativeDocumentMoniker": "ComputersRepairService\\Enter.cs",
+              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442 \u2014 \u043A\u043E\u043F\u0438\u044F\\ComputersRepairService\\ComputersRepairService\\Enter.cs",
+              "RelativeToolTip": "ComputersRepairService\\Enter.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:28:10.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
